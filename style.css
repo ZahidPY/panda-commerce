@@ -62,6 +62,7 @@ body{
 .card-footer{
     background-color: #fff;
     border-top: #fff;
+    border-radius: 10px!important;
 }
 #contact{
     height: 300px;
