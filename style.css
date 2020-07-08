@@ -3,10 +3,11 @@ body{
 }
 .orange-bg{
     background-color: #fceae8;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 .carousel-item{
     padding: 30px 30px;
+
 }
 .price{
     color: #ff136f;
@@ -68,9 +69,19 @@ body{
     height: 300px;
 }
 .contact-area h6{
-    margin: 2% 0;
+    margin: 4% 0;
     color: gray;
 }
 .contact-area input{
     margin: 2% 0;
+}
+input{
+    border: 2px solid #f8cbc6!important;
+    border-radius: 5px!important;
+   
+}
+footer h6{
+    color: gray;
+    text-align: center;
+    margin-bottom: 2%;
 }
